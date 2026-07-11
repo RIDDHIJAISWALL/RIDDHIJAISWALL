@@ -1,99 +1,88 @@
-# Hello World! I'm... 👋
+<h1 align="center">✨ Hello World! I'm Riddhi Jaiswal ✨</h1>
 
-```text
-  ____  _     _     _ _     _   _       _                     _ 
- |  _ \(_) __| | __| | |__ (_) (_) __ _(_)___      ____ _  | |
- | |_) | |/ _` |/ _` | '_ \| | | |/ _` | / __|    / / _` | | |
- |  _ <| | (_| | (_| | | | | | | | (_| | \__ \   / / (_| | | |
- |_| \_\_|\__,_|\__,_|_| |_|_| |_|\__,_|_|___/  /_/ \__,_| |_|
-                               _/ |                           
-                              |__/                            
-```
-
-### 💻 Software & Web Developer | Technical Community Leader
-📍 **Varanasi, Uttar Pradesh, India**
-
-Welcome to my digital space! I am an enthusiastic and confident software and web developer focused on building impactful web experiences. I bridge the gap between robust code and clean UI, combining full-stack development skills with active leadership in developer communities.
-
----
-
-## 🛠️ Languages & Technologies I Use
-
-### 🚀 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Community+Leader+%26+Organizer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </p>
 
-### 🌐 Web & Full-Stack Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  🕊️ Based in <b>Varanasi, Uttar Pradesh, India</b><br>
+  🚀 Enthusiastic developer bridging the gap between robust logic and beautiful, accessible user interfaces.
 </p>
 
-### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E6F?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <a href="https://linkedin.com/in/riddhi-jaiswal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:riddhijaiswal1406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🕹️ My Contribution Graph Eating Snake
+## 🛠️ Languages & Technical Arsenal
 
-🎨 Watch the snake eat my GitHub contributions over time!
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects
-
-### 📂 **NoteNest**
-> *A student resource sharing platform.*
-* **Tech Stack:** React.js, Firebase
-* Developed a full-stack platform for campus students to share academic resources seamlessly, featuring user authentication, a secure admin approval workflow, and an engaging leaderboard.
-
-### 📂 **Campus OLX**
-> *An exclusive student-to-student marketplace ecosystem.*
-* **Tech Stack:** HTML, CSS, JavaScript, Firebase, Bootstrap
-* Built a secure campus marketplace allowing verified users to easily buy, sell, or exchange textbooks, gadgets, and hostel essentials.
-
-### 📂 **StudyFlow**
-> *A deadline-driven smart study planner.*
-* **Tech Stack:** HTML, CSS, JavaScript
-* Designed scheduling logic that prioritizes academic tasks based on deadlines to optimize time management and maximize focus.
+| Category | Technologies | Proficiency |
+| :--- | :--- | :--- |
+| **Languages** | `JavaScript` `Python` `C` | ![85%](https://progress-bar.dev/85/?scale=100&title=Core&color=9C27B0&width=120) |
+| **Frontend** | `React.js` `Tailwind CSS` `HTML5` `CSS3` | ![90%](https://progress-bar.dev/90/?scale=100&title=UI&color=673AB7&width=120) |
+| **Backend & DB** | `Node.js` `MongoDB` `MySQL` `Strapi` | ![75%](https://progress-bar.dev/75/?scale=100&title=Data&color=3F51B5&width=120) |
+| **Tools** | `Git` `GitHub` `Agile/Scrum` | ![80%](https://progress-bar.dev/80/?scale=100&title=DevOps&color=00BCD4&width=120) |
 
 ---
 
-## 🏆 Leadership & Achievements
+## 🕹️ Interactive Contribution Arena
 
-I thrive on organizing technical events, hosting workshops, and building community engagement.
+🎨 Watch the custom automated snake navigate and eat my daily contribution blocks!
 
-* **Social Media & Design Coordinator** – Google Developer Group (GDG) BBDITM
-* **Web Master** – IEEE BBDITM Student Branch (2025)
-* **3rd Place Winner** – Think Tank, Utkarsh 2025
-
----
-
-## 📈 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=radical" alt="Riddhi's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=radical" alt="Riddhi's Streak Stats" height="180" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Featured Innovations
 
-Let's collaborate on web applications, open-source projects, or community building!
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📂 NoteNest</h3>
+      <p><i>A full-stack student resource sharing platform.</i></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> 
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      <ul>
+        <li>Secure user authentication & admin verification systems.</li>
+        <li>Gamified student leaderboard to drive resource contribution.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📂 Campus OLX</h3>
+      <p><i>Exclusive campus student-to-student marketplace.</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap" />
+      <ul>
+        <li>Verified network ecosystem ensuring student safety.</li>
+        <li>Secure item exchanges for textbooks, electronics, and essentials.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* 📧 **Email:** [riddhijaiswal1406@gmail.com](mailto:riddhijaiswal1406@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/riddhi-jaiswal](https://www.linkedin.com)
+> 💡 **StudyFlow:** Built a smart study planner dashboard leveraging complex deadline-prioritization logic to maximize task efficiency. Let me know if you want to see the codebase!
+
+---
+
+## 🏆 Community Footprint & Leadership
+
+* 🌟 **Social Media & Design Coordinator** – Google Developer Group (GDG) BBDITM
+* 🕸️ **Web Master** – IEEE BBDITM Student Branch (2025)
+* 💡 **3rd Place Podium Finish** – Think Tank, Utkarsh 2025
+
+---
+
+## 📊 Live Developer Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=dracula&hide_border=true" alt="Riddhi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=dracula&hide_border=true" alt="Riddhi's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&layout=compact&theme=dracula&hide_border=true" alt="Top Languages Card" width="60%" />
+</p>
