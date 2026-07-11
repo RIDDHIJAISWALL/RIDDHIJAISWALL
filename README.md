@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  🕊️ Based in <b>Varanasi, Uttar Pradesh, India</b><br>
-  🚀 Enthusiastic developer bridging the gap between robust logic and beautiful, accessible user interfaces.
+  🕊️ Based in <b>Varanasi, Uttar Pradesh, India</b>[cite: 1]<br>
+  🚀 Enthusiastic developer bridging the gap between robust logic and beautiful, accessible user interfaces[cite: 1].
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 | Category | Technologies | Proficiency |
 | :--- | :--- | :--- |
-| **Languages** | `JavaScript` `Python` `C` | ![85%](https://progress-bar.dev/85/?scale=100&title=Core&color=9C27B0&width=120) |
-| **Frontend** | `React.js` `Tailwind CSS` `HTML5` `CSS3` | ![90%](https://progress-bar.dev/90/?scale=100&title=UI&color=673AB7&width=120) |
-| **Backend & DB** | `Node.js` `MongoDB` `MySQL` `Strapi` | ![75%](https://progress-bar.dev/75/?scale=100&title=Data&color=3F51B5&width=120) |
-| **Tools** | `Git` `GitHub` `Agile/Scrum` | ![80%](https://progress-bar.dev/80/?scale=100&title=DevOps&color=00BCD4&width=120) |
+| **Languages** | `JavaScript` `Python` `C`[cite: 1] | ![85%](https://progress-bar.dev/85/?scale=100&title=Core&color=9C27B0&width=120) |
+| **Frontend** | `React.js` `Tailwind CSS` `HTML5` `CSS3`[cite: 1] | ![90%](https://progress-bar.dev/90/?scale=100&title=UI&color=673AB7&width=120) |
+| **Backend & DB** | `MongoDB` `MySQL` `Strapi`[cite: 1] | ![75%](https://progress-bar.dev/75/?scale=100&title=Data&color=3F51B5&width=120) |
+| **Tools** | `Git` `GitHub` `Agile`[cite: 1] | ![80%](https://progress-bar.dev/80/?scale=100&title=DevOps&color=00BCD4&width=120) |
 
 ---
 
@@ -43,36 +43,36 @@
   <tr>
     <td width="50%">
       <h3>📂 NoteNest</h3>
-      <p><i>A full-stack student resource sharing platform.</i></p>
+      <p><i>A full-stack student resource sharing platform.</i>[cite: 1]</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       <ul>
-        <li>Secure user authentication & admin verification systems.</li>
-        <li>Gamified student leaderboard to drive resource contribution.</li>
+        <li>Secure user authentication & admin verification systems[cite: 1].</li>
+        <li>Gamified student leaderboard to drive resource contribution[cite: 1].</li>
       </ul>
     </td>
     <td width="50%">
       <h3>📂 Campus OLX</h3>
-      <p><i>Exclusive campus student-to-student marketplace.</i></p>
+      <p><i>Exclusive campus student-to-student marketplace.</i>[cite: 1]</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap" />
       <ul>
-        <li>Verified network ecosystem ensuring student safety.</li>
-        <li>Secure item exchanges for textbooks, electronics, and essentials.</li>
+        <li>Verified network ecosystem ensuring student safety[cite: 1].</li>
+        <li>Secure item exchanges for textbooks, electronics, and essentials[cite: 1].</li>
       </ul>
     </td>
   </tr>
 </table>
 
-> 💡 **StudyFlow:** Built a smart study planner dashboard leveraging complex deadline-prioritization logic to maximize task efficiency. Let me know if you want to see the codebase!
+> 💡 **StudyFlow:** Built a smart study planner dashboard leveraging complex deadline-prioritization logic to maximize task efficiency[cite: 1].
 
 ---
 
 ## 🏆 Community Footprint & Leadership
 
-* 🌟 **Social Media & Design Coordinator** – Google Developer Group (GDG) BBDITM
-* 🕸️ **Web Master** – IEEE BBDITM Student Branch (2025)
-* 💡 **3rd Place Podium Finish** – Think Tank, Utkarsh 2025
+* 🌟 **Social Media & Design Coordinator** – Google Developer Group (GDG) BBDITM[cite: 1]
+* 🕸️ **Web Master** – IEEE BBDITM Student Branch (2025)[cite: 1]
+* 💡 **3rd Place Podium Finish** – Think Tank, Utkarsh 2025[cite: 1]
 
 ---
 
