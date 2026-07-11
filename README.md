@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Riddhi Jaiswal 👋</h1>
-
-<h3 align="center">Full-Stack Web Developer | Community Leader | Open Source Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%3E_Hello,+World!;%3E_I'm+Riddhi+Jaiswal;%3E_Full-Stack+Developer;%3E_Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
 <p align="center">
+  <i>Building scalable web applications, empowering communities, and writing clean code.</i><br><br>
   <a href="https://linkedin.com/in/riddhi-jaiswal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -11,74 +12,73 @@
   </a>
 </p>
 
----
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+<table align="center" style="border: none;">
+<tr>
+<td width="60%">
+<h2>🚀 About My Journey</h2>
+- 💻 I’m currently building the <b>Foreign Student Portal</b> for BHU.<br>
+- 🌱 I’m currently diving deep into <b>Next.js, System Architecture, and GraphQL</b>.<br>
+- 👯 I’m looking to collaborate on <b>Open Source React/Node.js projects</b>.<br>
+- 🎓 I serve as the <b>Web Master for IEEE</b> and <b>Design Coordinator for GDG</b>.<br>
+- 💬 Ask me about: <b>JavaScript, React, Strapi CMS, and UI/UX Design</b>.<br>
+- ⚡ Fun fact: I love finding creative solutions to complex logical bugs!
+</td>
+<td width="40%" align="center">
+  <!-- Dynamic 3D GitHub Globe -->
+  <img src="https://github-readme-globe.vercel.app/api?color=00FF99" alt="GitHub Globe" width="100%"/>
+</td>
+</tr>
+</table>
 
-- 📍 Based in **Varanasi, Uttar Pradesh, India**.
-- 💡 Passionate about building robust, scalable web applications and intuitive digital experiences.
-- 🎓 **Community Leadership:** 
-  - Social Media & Design Coordinator at **Google Developer Group (GDG) BBDITM**.
-  - Web Master at **IEEE BBDITM Student Branch (2025)**.
-- 🏆 **Achievements:** 3rd Place Podium Finish – Think Tank, Utkarsh 2025.
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<h2 align="center">💻 Interactive Tech Stack</h2>
+<p align="center"><i>Click on the folders below to reveal my tech stack!</i></p>
 
-## 🛠️ Languages & Tools
+<details>
+  <summary><b>🌐 Frontend Architecture</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+  </p>
+</details>
 
-**Languages:**<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<details>
+  <summary><b>⚙️ Backend & Databases</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python,c&theme=dark" />
+  </p>
+</details>
 
-**Frontend & Frameworks:**<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<details>
+  <summary><b>🛠️ Tools & Environments</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,postman&theme=dark" />
+  </p>
+</details>
 
-**Backend, Databases & CMS:**<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Developer Tools:**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[🌍 BHU Foreign Student Portal](https://github.com/RIDDHIJAISWALL/Foreign_Student_Portal)** | Centralized digital hub for international students featuring a Headless CMS architecture, optimized GraphQL data fetching, and dynamic route-based localization. | `Next.js` `React` `Strapi` `GraphQL` `Tailwind` |
-| **[🏡 NoteNest](#)** | A full-stack student resource sharing platform with secure user authentication, admin verification systems, and a gamified student leaderboard. | `React.js` `Firebase` |
-| **[📂 Campus OLX](#)** | Exclusive campus student-to-student marketplace featuring a verified network ecosystem and secure item exchanges. | `JavaScript` `Bootstrap` |
-| **[📊 StudyFlow](#)** | Smart study planner and productivity dashboard leveraging custom deadline-prioritization logic to maximize task efficiency. | `React.js` `Node.js` |
-
----
-
-## 📈 GitHub Metrics & Activity
+<h2 align="center">📈 Live Developer Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=tokyonight&hide_border=true" alt="Riddhi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=tokyonight&hide_border=true" alt="Riddhi's Streak Stats" width="48%" />
+  <!-- Dynamic Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Riddhi's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="Riddhi's Streak Stats" width="49%" />
 </p>
 
-### 🐍 Contribution Graph
+<h2 align="center">🐍 Contribution Activity (Dark Mode Snake)</h2>
 
 <p align="center">
   <picture>
@@ -88,8 +88,26 @@
   </picture>
 </p>
 
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h2>🎵 Coding Playlist</h2>
+      <!-- Spotify Widget (requires configuration if you want it to track your real Spotify) -->
+      <a href="https://spotify.com"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatimo&bar_color_cover=false" alt="Spotify Now Playing" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h2>🧠 Developer Quote</h2>
+      <!-- Random Dev Quote -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=00FF99&style=for-the-badge" alt="Profile Views" />
 </p>
