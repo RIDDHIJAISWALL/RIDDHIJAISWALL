@@ -1,73 +1,107 @@
-<h1 align="center">Hi, I'm Riddhi Jaiswal 👋</h1>
-
-<h3 align="center">Full-Stack Web Developer | Community Leader | Open Source Enthusiast</h3>
+<h1 align="center">✨ Riddhi Jaiswal ✨</h1>
+<p align="center">
+  <b>Full-Stack Web Developer | Technical Community Leader | Systems Engineer</b>
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/riddhi-jaiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:riddhijaiswal1406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Robust+%26+Scalable+Architectures;Bridging+Clean+UI+with+Optimized+Logic;Active+Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📍 Varanasi, Uttar Pradesh, India &nbsp;&bull;&nbsp; 💼 Computer Science & Engineering[cite: 1]
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/riddhi-jaiswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:riddhijaiswal1406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technical Matrix & Core Expertise
 
-- 📍 Based in **Varanasi, Uttar Pradesh, India**.
-- 💡 Passionate about building robust, scalable web applications and intuitive digital experiences.
-- 🎓 **Community Leadership:** 
-  - Social Media & Design Coordinator at **Google Developer Group (GDG) BBDITM**.
-  - Web Master at **IEEE BBDITM Student Branch (2025)**.
-- 🏆 **Achievements:** 3rd Place Podium Finish – Think Tank, Utkarsh 2025.
+I architect modern web systems utilizing a robust stack of low-level languages, full-stack ecosystems, and modern deployment toolsets[cite: 1].
 
----
-
-## 🛠️ Languages & Tools
-
-**Languages:**<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-**Frontend & Frameworks:**<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-
-**Backend, Databases & CMS:**<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-
-**Developer Tools:**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Programming Languages</h3>
+      <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>C</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code>[cite: 1]
+      <br><br>
+      <h3>🌐 Frontend Architectures</h3>
+      <code>React.js</code> &nbsp; <code>Next.js</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Bootstrap</code>[cite: 1]
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Backend, Databases & CMS</h3>
+      <code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>MongoDB</code> &nbsp; <code>MySQL</code> &nbsp; <code>Strapi</code> &nbsp; <code>Firebase</code>[cite: 1]
+      <br><br>
+      <h3>🔧 DevOps & Developer Tooling</h3>
+      <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Postman</code> &nbsp; <code>Figma</code> &nbsp; <code>VS Code</code>[cite: 1]
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🕹️ Live Contribution Arena
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[🌍 BHU Foreign Student Portal](https://github.com/RIDDHIJAISWALL/Foreign_Student_Portal)** | Centralized digital hub for international students featuring a Headless CMS architecture, optimized GraphQL data fetching, and dynamic route-based localization. | `Next.js` `React` `Strapi` `GraphQL` `Tailwind` |
-| **[🏡 NoteNest](#)** | A full-stack student resource sharing platform with secure user authentication, admin verification systems, and a gamified student leaderboard. | `React.js` `Firebase` |
-| **[📂 Campus OLX](#)** | Exclusive campus student-to-student marketplace featuring a verified network ecosystem and secure item exchanges. | `JavaScript` `Bootstrap` |
-| **[📊 StudyFlow](#)** | Smart study planner and productivity dashboard leveraging custom deadline-prioritization logic to maximize task efficiency. | `React.js` `Node.js` |
+🎨 Watch the automated graph matrix generate dynamically from my code history:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-## 📈 GitHub Metrics & Activity
+## 🚀 Selected Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Architecture</th>
+      <th>Key Metrics & Implementations</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🌍 BHU Foreign Student Portal</b></td>
+      <td>Centralized digital infrastructure for international candidates. Engineered using a Headless CMS foundation, optimized GraphQL queries for low latency, and dynamic multi-language localization routing.</td>
+      <td><code>Next.js</code><br><code>Strapi</code><br><code>GraphQL</code></td>
+    </tr>
+    <tr>
+      <td><b>🏡 NoteNest</b></td>
+      <td>A secure, full-stack academic hub featuring custom student authentication[cite: 1], granular document verification administrative controls, and a gamified contribution leaderboard[cite: 1].</td>
+      <td><code>React.js</code><br><code>Firebase</code>[cite: 1]</td>
+    </tr>
+    <tr>
+      <td><b>📂 Campus OLX</b></td>
+      <td>Exclusive student-to-student closed marketplace ensuring ecosystem verification[cite: 1], secure authenticated handshakes, and intuitive asset indexing[cite: 1].</td>
+      <td><code>JavaScript</code><br><code>Bootstrap</code>[cite: 1]</td>
+    </tr>
+    <tr>
+      <td><b>📊 StudyFlow</b></td>
+      <td>Productivity matrix dashboard managing micro-tasks by building analytical priority queues tied directly to algorithmic calendar deadlines[cite: 1].</td>
+      <td><code>React.js</code><br><code>Node.js</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🏆 Community Footprint & Leadership
+
+* 🌟 **Social Media & Design Coordinator** — Google Developer Group (GDG) BBDITM[cite: 1]
+* 🕸️ **Web Master** — IEEE BBDITM Student Branch (2025)[cite: 1]
+* 🥇 **3rd Place Winner** — Think Tank, Utkarsh 2025[cite: 1]
+
+---
+
+## 📈 Analytical Developer Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=tokyonight&hide_border=true" alt="Riddhi's GitHub Stats" width="48%" />
@@ -78,18 +112,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" width="60%" />
 </p>
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
 </p>
