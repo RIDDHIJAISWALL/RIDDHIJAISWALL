@@ -1,136 +1,95 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="35">
-  Hey there! I'm Riddhi Jaiswal ✨🌸
-</h1>
+<h1 align="center">Hi, I'm Riddhi Jaiswal 👋</h1>
+
+<h3 align="center">Full-Stack Web Developer | Community Leader | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+👩🏻‍💻;Community+Leader+%26+Tech+Enthusiast;Crafting+Cute+%26+Clean+Code+✨" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
-</p>
-
-<p align="center">
-  🏠 Based in <b>Varanasi, Uttar Pradesh, India</b> <br>
-  🦄 Enthusiastic developer bridging the gap between robust logic and beautiful, user-friendly digital spaces! <br><br>
   <a href="https://linkedin.com/in/riddhi-jaiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:riddhijaiswal1406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+## 👨‍💻 About Me
 
-## 🎀 My Tech Stack & Languages
+- 📍 Based in **Varanasi, Uttar Pradesh, India**.
+- 💡 Passionate about building robust, scalable web applications and intuitive digital experiences.
+- 🎓 **Community Leadership:** 
+  - Social Media & Design Coordinator at **Google Developer Group (GDG) BBDITM**.
+  - Web Master at **IEEE BBDITM Student Branch (2025)**.
+- 🏆 **Achievements:** 3rd Place Podium Finish – Think Tank, Utkarsh 2025.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap&theme=light" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python,c&theme=light" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,postman&theme=light" />
-  </a>
-</p>
+---
 
-<br>
+## 🛠️ Languages & Tools
 
-## 🚀 Featured Innovations
+**Languages:**<br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#FFF0F5">
-      <h3>🌍 BHU Foreign Student Portal</h3>
-      <p><i>Centralized digital hub for international students.</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white" />
-      <ul>
-        <li>Headless CMS architecture with optimized GraphQL data fetching.</li>
-        <li>Dynamic route-based localization (English/Hindi).</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" bgcolor="#FDF5E6">
-      <h3>🏡 NoteNest</h3>
-      <p><i>A full-stack student resource sharing platform.</i></p>
-      <img src="https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Firebase-FFD700?style=flat&logo=firebase&logoColor=black" />
-      <ul>
-        <li>Secure user authentication & admin verification systems.</li>
-        <li>Gamified student leaderboard to drive resource contribution.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#FDF5E6">
-      <h3>📂 Campus OLX</h3>
-      <p><i>Exclusive campus student-to-student marketplace.</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      <ul>
-        <li>Verified network ecosystem ensuring student safety.</li>
-        <li>Secure item exchanges for textbooks, electronics, and essentials.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" bgcolor="#FFF0F5">
-      <h3>🧁 StudyFlow</h3>
-      <p><i>Smart study planner & productivity dashboard.</i></p>
-      <img src="https://img.shields.io/badge/Logic-FF69B4?style=flat&logo=react&logoColor=white" />
-      <ul>
-        <li>Leverages custom deadline-prioritization logic.</li>
-        <li>Maximizes task efficiency for students.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Frontend & Frameworks:**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 
-<br>
+**Backend, Databases & CMS:**<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+**Developer Tools:**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 
-## 🏆 Community Leadership
+---
 
-* 🌸 **Social Media & Design Coordinator** – Google Developer Group (GDG) BBDITM
-* 🕸️ **Web Master** – IEEE BBDITM Student Branch (2025)
-* 💡 **3rd Place Podium Finish** – Think Tank, Utkarsh 2025
+## 🚀 Featured Projects
 
-<br>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🌍 BHU Foreign Student Portal](https://github.com/RIDDHIJAISWALL/Foreign_Student_Portal)** | Centralized digital hub for international students featuring a Headless CMS architecture, optimized GraphQL data fetching, and dynamic route-based localization. | `Next.js` `React` `Strapi` `GraphQL` `Tailwind` |
+| **[🏡 NoteNest](#)** | A full-stack student resource sharing platform with secure user authentication, admin verification systems, and a gamified student leaderboard. | `React.js` `Firebase` |
+| **[📂 Campus OLX](#)** | Exclusive campus student-to-student marketplace featuring a verified network ecosystem and secure item exchanges. | `JavaScript` `Bootstrap` |
+| **[📊 StudyFlow](#)** | Smart study planner and productivity dashboard leveraging custom deadline-prioritization logic to maximize task efficiency. | `React.js` `Node.js` |
 
-## 🕹️ Activity & Contributions
+---
 
-🎨 Watch my cute little purple snake navigate around eating my contribution candy blocks! 🍬
+## 📈 GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
-## 📊 Developer Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIDDHIJAISWALL&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=tokyonight&hide_border=true" alt="Riddhi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=tokyonight&hide_border=true" alt="Riddhi's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=sakura&hide_border=true&bg_color=00000000" alt="Riddhi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=sakura&hide_border=true&background=00000000" alt="Riddhi's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" width="60%" />
 </p>
 
+### 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&layout=compact&theme=sakura&hide_border=true&bg_color=00000000" alt="Top Languages Card" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </p>
