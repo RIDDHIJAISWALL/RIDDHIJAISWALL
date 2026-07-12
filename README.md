@@ -123,33 +123,27 @@ motto: "Code. Create. Conquer."</pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS — FIXED URLS -->
+<!-- 📊 GITHUB ANALYTICS — RELIABLE VERSION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
+<!-- Activity Graph (Reliable) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true&area_color=A855F720" width="100%" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=e4e4e4&rank_icon=github&include_all_commits=true&cache_seconds=86400&custom_title=⚡%20GitHub%20Stats" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=e4e4e4&currStreakNum=A855F7" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏆 CUSTOM GITHUB STATS — 100% RELIABLE SHIELDS.IO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h3 align="center">🏆 GitHub Stats</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-📁-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/RIDDHIJAISWALL?label=Followers&style=for-the-badge&color=A855F7&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/RIDDHIJAISWALL?label=Stars&style=for-the-badge&color=A855F7&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Commits-🔥-A855F7?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=e4e4e4&layout=compact&langs_count=12&cache_seconds=86400&custom_title=🔥%20Most%20Used%20Languages" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=RIDDHIJAISWALL&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- 3D Contribution Graph -->
+<h3 align="center">🌌 3D Contribution Graph</h3>
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=RIDDHIJAISWALL&theme=purple&bg_color=0D1117&no-bg=true&no-frame=true" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 PURPLE DIVIDER -->
