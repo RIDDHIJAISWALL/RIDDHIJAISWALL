@@ -123,7 +123,7 @@ motto: "Code. Create. Conquer."</pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS (PURPLE THEME) -->
+<!-- 📊 GITHUB ANALYTICS — FIXED URLS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
@@ -132,10 +132,10 @@ motto: "Code. Create. Conquer."</pre>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=e4e4e4&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=e4e4e4&rank_icon=github&include_all_commits=true&cache_seconds=86400&custom_title=⚡%20GitHub%20Stats" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=e4e4e4&currStreakNum=A855F7" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=e4e4e4&currStreakNum=A855F7" width="100%" />
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ motto: "Code. Create. Conquer."</pre>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=e4e4e4&layout=compact&langs_count=12&custom_title=🔥%20Most%20Used%20Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=e4e4e4&layout=compact&langs_count=12&cache_seconds=86400&custom_title=🔥%20Most%20Used%20Languages" width="100%" />
     </td>
     <td width="50%" valign="top">
       <img src="https://github-profile-trophy.vercel.app/?username=RIDDHIJAISWALL&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" width="100%" />
@@ -157,7 +157,7 @@ motto: "Code. Create. Conquer."</pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE (TERA CHAL RAHA HAI) -->
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -173,7 +173,7 @@ motto: "Code. Create. Conquer."</pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🎯 FEATURED PROJECTS — RELIABLE CUSTOM CARDS -->
+<!-- 🎯 FEATURED PROJECTS — CUSTOM CARDS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -216,7 +216,7 @@ motto: "Code. Create. Conquer."</pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🧠 DEV QUOTE + CODING VIBES (2 COLUMN — SPOTIFY HATA DIYA) -->
+<!-- 🧠 DEV QUOTE + CODING VIBES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <table width="100%">
   <tr>
