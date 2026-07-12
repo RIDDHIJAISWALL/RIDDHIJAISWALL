@@ -1,4 +1,5 @@
 <div align="center">
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🚀 NASA-LEVEL ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -9,6 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=const+riddhi+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++passion%3A+%22Building+scalable+web+apps%22%2C;++++mission%3A+%22Empowering+communities%22%2C;++++superpower%3A+%22Writing+clean+code%22;%7D%3B;console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);%3E+Initializing+portfolio...;%3E+Loading+skills...;%3E+Ready+to+collaborate!" alt="Matrix Typing" />
 
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🔥 HOLOGRAPHIC BADGES ROW -->
@@ -29,20 +31,23 @@
   <img src="https://img.shields.io/badge/📝_Resume-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white&logoWidth=20&labelColor=0D1117" />
 </a>
 
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER WITH PARTICLES -->
+<!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME + 3D GLOBE -->
+<!-- 👤 ABOUT ME + CODING GIF -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
-🚀 Mission Control
-yaml
+    <td width="60%" valign="top">
+
+### 🚀 Mission Control
+
+```yaml
 name: Riddhi Jaiswal
 role: Full-Stack Developer
 location: India 🇮🇳
@@ -55,50 +60,68 @@ positions:
 expertise: [JavaScript, React, Strapi CMS, UI/UX Design]
 fun_fact: "I debug bugs like Sherlock solves cases 🕵️"
 motto: "Code. Create. Conquer."
-plain
 </td>
-<td width="45%" align="center" valign="middle">
-  <img src="https://github-readme-globe.vercel.app/api?color=00FF99&size=large" width="100%" />
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding" />
 </td>
   </tr>
 </table>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 💻 TECH ARSENAL — FULLY VISIBLE, NO CLICKING -->
+<!-- 💻 TECH ARSENAL — SHIELDS.IO (100% RELIABLE) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">⚡ Tech Arsenal</h2>
 <h3>🌐 Frontend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap,mui,redux,typescript&theme=dark&perline=10" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
 </p>
 <h3>⚙️ Backend & Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python,c,java,graphql,prisma&theme=dark&perline=10" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" />
 </p>
 <h3>🛠️ Tools, DevOps & Design</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,postman,docker,aws,linux,vercel&theme=dark&perline=10" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF99&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
 </p>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📊 LIVE ANALYTICS DASHBOARD -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true&area=true&area_color=00FF9920" width="100%" />
-
-
-<!-- Stats Row 1 -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -109,8 +132,6 @@ plain
     </td>
   </tr>
 </table>
-
-<!-- Stats Row 2 -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -121,30 +142,23 @@ plain
     </td>
   </tr>
 </table>
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=e4e4e4&custom_title=⏱️%20Coding%20Activity%20(Last%207%20Days)" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- 🐍 CONTRIBUTION SNAKE (TERA ALREADY CHAL RAHA HAI) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🐍 Contribution Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </picture>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎯 FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -163,12 +177,10 @@ plain
     </td>
   </tr>
 </table>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎵 SPOTIFY + 🧠 QUOTE + 💻 CODING GIF -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -191,24 +203,19 @@ plain
     </td>
   </tr>
 </table>
-
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 👁️ PROFILE VIEWS + FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=👁️%20Profile%20Views&color=00FF99&style=for-the-badge" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=2000&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+together!+%F0%9F%9A%80;Keep+coding%2C+keep+creating!+%E2%9C%A8" alt="Footer" />
 </p>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌊 WAVING FOOTER BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
