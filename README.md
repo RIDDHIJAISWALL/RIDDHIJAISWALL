@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🚀 NASA-LEVEL ANIMATED HEADER -->
+<!-- 🚀 ANIMATED HEADER (PURPLE THEME) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:00FF99,100:0D1117&text=Riddhi%20Jaiswal&fontColor=00FF99&fontSize=70&animation=fadeIn&stroke=00FF99&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20IEEE%20Web%20Master&descSize=18&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:A855F7,100:0D1117&text=Riddhi%20Jaiswal&fontColor=A855F7&fontSize=70&animation=fadeIn&stroke=A855F7&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20IEEE%20Web%20Master&descSize=18&descAlignY=75" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ⚡ MATRIX-STYLE TYPING ANIMATION -->
+<!-- ⚡ MATRIX TYPING (PURPLE) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=const+riddhi+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++passion%3A+%22Building+scalable+web+apps%22%2C;++++mission%3A+%22Empowering+communities%22%2C;++++superpower%3A+%22Writing+clean+code%22;%7D%3B;console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);%3E+Initializing+portfolio...;%3E+Loading+skills...;%3E+Ready+to+collaborate!" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=const+riddhi+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++passion%3A+%22Building+scalable+web+apps%22%2C;++++mission%3A+%22Empowering+communities%22%2C;++++superpower%3A+%22Writing+clean+code%22;%7D%3B;console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);%3E+Initializing+portfolio...;%3E+Loading+skills...;%3E+Ready+to+collaborate!" alt="Matrix Typing" />
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔥 HOLOGRAPHIC BADGES ROW -->
+<!-- 🔥 SOCIAL BADGES (PURPLE THEME) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <a href="https://linkedin.com/in/riddhi-jaiswal" target="_blank">
   <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0D1117" />
@@ -22,21 +22,21 @@
   <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=0D1117" />
 </a>
 <a href="https://github.com/RIDDHIJAISWALL" target="_blank">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF99&logoWidth=20&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=A855F7&logoWidth=20&labelColor=0D1117" />
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Portfolio-00FF99?style=for-the-badge&logo=vercel&logoColor=black&logoWidth=20&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🚀_Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20&labelColor=0D1117" />
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/📝_Resume-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white&logoWidth=20&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📝_Resume-F43F5E?style=for-the-badge&logo=read-the-docs&logoColor=white&logoWidth=20&labelColor=0D1117" />
 </a>
 
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME + CODING GIF -->
@@ -45,7 +45,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 Mission Control</h3>
-      <pre style="background:#0d1117; color:#00ff99; padding:16px; border-radius:8px; font-family:'JetBrains Mono','Fira Code',monospace; font-size:13px; line-height:1.6; border:1px solid #21262d; overflow-x:auto;">
+      <pre style="background:#0d1117; color:#A855F7; padding:16px; border-radius:8px; font-family:'JetBrains Mono','Fira Code',monospace; font-size:13px; line-height:1.6; border:1px solid #A855F7; overflow-x:auto;">
 name: Riddhi Jaiswal
 role: Full-Stack Developer
 location: India 🇮🇳
@@ -66,12 +66,12 @@ motto: "Code. Create. Conquer."</pre>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 💻 TECH ARSENAL — SHIELDS.IO (100% RELIABLE) -->
+<!-- 💻 TECH ARSENAL — 100% RELIABLE SHIELDS.IO -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -106,7 +106,7 @@ motto: "Code. Create. Conquer."</pre>
 <h3>🛠️ Tools, DevOps & Design</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF99&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" />
@@ -118,24 +118,24 @@ motto: "Code. Create. Conquer."</pre>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📊 LIVE ANALYTICS DASHBOARD -->
+<!-- 📊 GITHUB ANALYTICS (PURPLE THEME) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true&area=true&area_color=00FF9920" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true&area_color=A855F720" width="100%" />
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=e4e4e4&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RIDDHIJAISWALL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=e4e4e4&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00FF99&dates=e4e4e4&currStreakNum=00FF99" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIJAISWALL&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=e4e4e4&currStreakNum=A855F7" width="100%" />
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ motto: "Code. Create. Conquer."</pre>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=e4e4e4&layout=compact&langs_count=12&custom_title=🔥%20Most%20Used%20Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDDHIJAISWALL&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=e4e4e4&layout=compact&langs_count=12&custom_title=🔥%20Most%20Used%20Languages" width="100%" />
     </td>
     <td width="50%" valign="top">
       <img src="https://github-profile-trophy.vercel.app/?username=RIDDHIJAISWALL&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" width="100%" />
@@ -152,12 +152,12 @@ motto: "Code. Create. Conquer."</pre>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE (TERA ALREADY CHAL RAHA HAI) -->
+<!-- 🐍 CONTRIBUTION SNAKE (TERA CHAL RAHA HAI) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -168,51 +168,64 @@ motto: "Code. Create. Conquer."</pre>
 </picture>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🎯 FEATURED PROJECTS -->
+<!-- 🎯 FEATURED PROJECTS — RELIABLE CUSTOM CARDS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="#" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIDDHIJAISWALL&repo=foreign-student-portal&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=e4e4e4" width="100%" />
+      <a href="#" target="_blank" style="text-decoration:none">
+        <div style="background:#0D1117; border:1px solid #A855F7; border-radius:10px; padding:16px;">
+          <h3 align="center" style="color:#A855F7; margin-top:0;">🎓 Foreign Student Portal</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+          </p>
+          <p align="center" style="color:#c9d1d9; font-size:13px;">A comprehensive portal for foreign students at BHU with multi-language support and document management.</p>
+          <p align="center"><img src="https://img.shields.io/badge/🔗_View_Project-A855F7?style=for-the-badge" /></p>
+        </div>
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="#" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIDDHIJAISWALL&repo=react-dashboard&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=e4e4e4" width="100%" />
+      <a href="#" target="_blank" style="text-decoration:none">
+        <div style="background:#0D1117; border:1px solid #A855F7; border-radius:10px; padding:16px;">
+          <h3 align="center" style="color:#A855F7; margin-top:0;">📊 React Dashboard</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+          </p>
+          <p align="center" style="color:#c9d1d9; font-size:13px;">Modern analytics dashboard with real-time data visualization and dark mode support.</p>
+          <p align="center"><img src="https://img.shields.io/badge/🔗_View_Project-A855F7?style=for-the-badge" /></p>
+        </div>
       </a>
     </td>
   </tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🎵 SPOTIFY + 🧠 QUOTE + 💻 CODING GIF -->
+<!-- 🧠 DEV QUOTE + CODING VIBES (2 COLUMN — SPOTIFY HATA DIYA) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🎵 Now Playing</h3>
-      <br>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatimo&bar_color=00FF99&bar_color_cover=false" width="95%" />
-    </td>
-    <td width="34%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>🧠 Dev Quote</h3>
       <br>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="95%" />
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>💻 Coding Vibes</h3>
       <br>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" style="border-radius: 12px;" />
@@ -221,24 +234,24 @@ motto: "Code. Create. Conquer."</pre>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌌 NEON DIVIDER -->
+<!-- 🌌 PURPLE DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&section=footer" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 👁️ PROFILE VIEWS + FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=👁️%20Profile%20Views&color=00FF99&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=👁️%20Profile%20Views&color=A855F7&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=2000&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+together!+%F0%9F%9A%80;Keep+coding%2C+keep+creating!+%E2%9C%A8" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+together!+%F0%9F%9A%80;Keep+coding%2C+keep+creating!+%E2%9C%A8" alt="Footer" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌊 WAVING FOOTER BANNER -->
+<!-- 🌊 PURPLE WAVING FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0D1117&height=150&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Riddhi&fontSize=24&fontColor=00FF99&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0D1117&height=150&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Riddhi&fontSize=24&fontColor=A855F7&animation=fadeIn" width="100%" />
 
 </div>
