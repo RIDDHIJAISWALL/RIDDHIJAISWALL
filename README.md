@@ -15,7 +15,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🔥 SOCIAL BADGES (PURPLE THEME) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<a href="[https://linkedin.com/in/riddhi-jaiswal](https://www.linkedin.com/in/riddhi-jaiswal-170243302/)" target="_blank">
+<a href="https://www.linkedin.com/in/riddhi-jaiswal-170243302/" target="_blank">
   <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0D1117" />
 </a>
 <a href="mailto:riddhijaiswal1406@gmail.com">
