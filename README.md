@@ -44,10 +44,8 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-
-### 🚀 Mission Control
-
-```yaml
+      <h3>🚀 Mission Control</h3>
+      <pre style="background:#0d1117; color:#00ff99; padding:16px; border-radius:8px; font-family:'JetBrains Mono','Fira Code',monospace; font-size:13px; line-height:1.6; border:1px solid #21262d; overflow-x:auto;">
 name: Riddhi Jaiswal
 role: Full-Stack Developer
 location: India 🇮🇳
@@ -59,21 +57,24 @@ positions:
   - Design Coordinator @ GDG
 expertise: [JavaScript, React, Strapi CMS, UI/UX Design]
 fun_fact: "I debug bugs like Sherlock solves cases 🕵️"
-motto: "Code. Create. Conquer."
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding" />
-</td>
+motto: "Code. Create. Conquer."</pre>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding" />
+    </td>
   </tr>
 </table>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 💻 TECH ARSENAL — SHIELDS.IO (100% RELIABLE) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">⚡ Tech Arsenal</h2>
+
 <h3>🌐 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
@@ -87,6 +88,7 @@ motto: "Code. Create. Conquer."
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
 </p>
+
 <h3>⚙️ Backend & Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" />
@@ -100,6 +102,7 @@ motto: "Code. Create. Conquer."
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" />
 </p>
+
 <h3>🛠️ Tools, DevOps & Design</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
@@ -113,15 +116,19 @@ motto: "Code. Create. Conquer."
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
 </p>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📊 LIVE ANALYTICS DASHBOARD -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIJAISWALL&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true&area=true&area_color=00FF9920" width="100%" />
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -132,6 +139,7 @@ motto: "Code. Create. Conquer."
     </td>
   </tr>
 </table>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -142,27 +150,33 @@ motto: "Code. Create. Conquer."
     </td>
   </tr>
 </table>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🐍 CONTRIBUTION SNAKE (TERA ALREADY CHAL RAHA HAI) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🐍 Contribution Snake</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/RIDDHIJAISWALL/RIDDHIJAISWALL/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </picture>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎯 FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🚀 Featured Projects</h2>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -177,10 +191,12 @@ motto: "Code. Create. Conquer."
     </td>
   </tr>
 </table>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎵 SPOTIFY + 🧠 QUOTE + 💻 CODING GIF -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -203,21 +219,26 @@ motto: "Code. Create. Conquer."
     </td>
   </tr>
 </table>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌌 NEON DIVIDER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF99,100:0D1117&height=3&section=footer" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 👁️ PROFILE VIEWS + FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RIDDHIJAISWALL&label=👁️%20Profile%20Views&color=00FF99&style=for-the-badge" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=2000&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+together!+%F0%9F%9A%80;Keep+coding%2C+keep+creating!+%E2%9C%A8" alt="Footer" />
 </p>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌊 WAVING FOOTER BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0D1117&height=150&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Riddhi&fontSize=24&fontColor=00FF99&animation=fadeIn" width="100%" />
+
 </div>
